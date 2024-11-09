@@ -8,7 +8,7 @@ const Hero = () => {
         Hi, I’m Umair Dilshad A passionate Frontend Developer dedicated to transforming 
         ideas into stunning, functional web applications. With expertise in cutting-edge 
         technologies like React, Next.js, and TypeScript, I create seamless user experiences
-         that captivate and engage. Let's bring your vision to life together!
+         that captivate and engage. Lets bring your vision to life together!
   
   
         </p>

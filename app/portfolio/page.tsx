@@ -6,7 +6,7 @@ const Page = () => {
       <header className="mb-8">
         <h1 className="text-5xl font-bold text-center">Umair Dilshad Portfolio</h1>
         <p className="text-xl text-center mt-4">
-        Hi, I'm Umair Dilshad! A passionate Frontend Developer dedicated to
+        Hi, I am Umair Dilshad! A passionate Frontend Developer dedicated to
          crafting clean, responsive websites that provide exceptional user experiences.
 
 

@@ -25,7 +25,7 @@ const About = () => {
       
       <p className="text-lg leading-relaxed text-justify font-semibold mb-4">
       Beyond coding, I have a keen interest in design principles, which I integrate 
-      into my projects to enhance their visual appeal. When I'm not immersed in 
+      into my projects to enhance their visual appeal. When I am not immersed in 
       development, you can find me exploring the latest tech trends, watching tutorial 
       videos, or enjoying quality time with family and friends. I’m excited to connect 
       and collaborate on projects that push the boundaries of what’s possible in 
